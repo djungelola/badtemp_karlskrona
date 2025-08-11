@@ -3,8 +3,10 @@
   "name": "Water Temperature for Karlskrona Swim Areas",
   "documentation": "https://github.com/kayjei/swimareas_karlskrona",
   "dependencies": [],
-  "codeowners": ["kayjei"],
-  "requirements": ["requests"],
-  "issue_tracker": "None",
-  "version": 0.3
+  "codeowners": ["@kayjei"],
+  "requirements": [],
+  "issue_tracker": "https://github.com/kayjei/swimareas_karlskrona/issues",
+  "version": "1.0.0",
+  "config_flow": false,
+  "iot_class": "cloud_polling"
 }
